@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.scss"],"names":[],"mappings":"AAAA,MACC,wBAAyB,CAD1B,QAGE,qBAAsB,CACtB","file":"../index.css","sourcesContent":["#main {\n\tbackground-color: #ffccff;\n\tp {\n\t\tbackground-color: grey;\n\t}\n}"]}
